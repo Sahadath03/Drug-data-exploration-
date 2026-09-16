@@ -1,0 +1,262 @@
+,AGE,GENDER,RACE,US_BORN,EMPLOYED,SCHOOL,THERAPY,TOTALDRUGS,ILLEGALTOTALILLEGALDRUGS1,ILLEGTOTALILLEGALDRUGS2,ALCOHOL,TOBACCO,ECSTASY,KETAMINE,METHAMPHETAMINE,MARIJUANA,COCAINE_POWEDER,GHB,COCAINE_CRACK,HEROIN,MUSHROOM,LSD,RX,DEPRESSION,ANXIETY,LONELINESS
+1,19,female,API,Yes,Yes,Yes,Yes,2,1,0,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,21,34,6
+2,19,female,WHITE,Yes,No,Yes,No,1,0,0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,24,32,6
+3,18,female,MIXED RACE,Yes,Yes,Yes,Yes,12,11,10,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,60,54,15
+4,23,female,BLACK,Yes,Yes,No,No,12,11,10,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,57,54,15
+5,25,female,WHITE,Yes,Yes,No,No,10,10,9,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,62,50,15
+6,20,female,WHITE,Yes,No,Yes,No,3,1,0,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,24,36,15
+7,25,female,WHITE,Yes,Yes,Yes,No,3,2,1,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,24,36,15
+8,23,male,API,Yes,No,Yes,Yes,2,1,0,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,27,30,15
+9,20,female,WHITE,Yes,Yes,Yes,Yes,2,1,0,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,28,31,15
+10,23,female,WHITE,Yes,Yes,Yes,No,2,1,0,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,24,34,15
+11,25,female,WHITE,No,Yes,No,No,1,1,0,No,No,No,No,No,Yes,No,No,No,No,No,No,No,24,32,15
+12,20,female,API,No,Yes,Yes,No,1,0,0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,22,32,15
+13,20,male,API,No,No,Yes,No,1,0,0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,24,32,15
+14,20,female,MIXED RACE,No,Yes,Yes,No,1,0,0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,24,32,15
+15,18,female,BLACK,Yes,No,Yes,No,1,0,0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,24,32,15
+16,19,female,MIXED RACE,Yes,Yes,Yes,No,1,1,0,No,No,No,No,No,Yes,No,No,No,No,No,No,No,24,51,15
+17,22,female,MIXED RACE,No,Yes,No,No,0,0,0,No,No,No,No,No,No,No,No,No,No,No,No,No,24,30,15
+18,25,female,WHITE,Yes,Yes,Yes,Yes,0,0,0,No,No,No,No,No,No,No,No,No,No,No,No,No,24,30,15
+19,21,female,WHITE,Yes,Yes,Yes,Yes,0,0,0,No,No,No,No,No,No,No,No,No,No,No,No,No,24,41,15
+20,18,female,BLACK,Yes,No,Yes,No,0,0,0,No,No,No,No,No,No,No,No,No,No,No,No,No,24,43,15
+21,23,female,MIXED RACE,Yes,Yes,Yes,No,0,0,0,No,No,No,No,No,No,No,No,No,No,No,No,No,24,30,15
+22,19,male,API,No,Yes,Yes,No,9,7,6,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,46,48,12
+23,20,female,API,No,No,Yes,Yes,7,6,6,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,59,44,12
+24,21,female,MIXED RACE,Yes,Yes,Yes,Yes,6,4,3,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,23,42,12
+25,19,female,BLACK,Yes,Yes,Yes,Yes,6,4,3,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes,Yes,45,42,12
+26,21,female,API,No,No,Yes,No,4,3,2,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,Yes,24,38,12
+27,22,male,API,Yes,No,Yes,Yes,4,2,1,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,24,38,12
+28,20,male,WHITE,Yes,Yes,Yes,No,3,2,1,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,24,36,12
+29,25,male,WHITE,Yes,Yes,No,No,3,2,1,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,21,36,12
+30,23,female,WHITE,Yes,Yes,No,No,3,1,0,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,24,36,12
+31,20,female,BLACK,Yes,Yes,Yes,No,2,1,0,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,24,34,12
+32,23,female,API,Yes,No,No,Yes,2,0,0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,47,34,12
+33,18,female,WHITE,Yes,Yes,Yes,No,2,1,0,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,23,36,12
+34,25,female,WHITE,Yes,Yes,No,No,2,2,1,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,26,34,12
+35,19,female,WHITE,Yes,No,Yes,No,2,1,0,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,34,28,12
+36,24,female,WHITE,Yes,No,Yes,No,2,2,1,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,24,44,12
+37,21,male,API,No,Yes,Yes,Yes,1,0,0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,22,32,12
+38,19,female,API,No,No,Yes,No,1,0,0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,24,32,12
+39,19,female,API,No,Yes,Yes,No,1,0,0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,24,33,12
+40,18,female,API,No,No,Yes,No,1,0,0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,22,32,12
+41,20,female,WHITE,No,Yes,No,No,1,0,0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,24,32,12
+42,22,female,MIXED RACE,No,Yes,Yes,No,1,0,0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,24,33,12
+43,21,female,API,Yes,Yes,Yes,No,1,1,0,No,No,No,No,No,Yes,No,No,No,No,No,No,No,24,32,12
+44,23,female,WHITE,Yes,Yes,No,No,1,1,0,No,No,No,No,No,Yes,No,No,No,No,No,No,No,24,39,12
+45,18,male,MIXED RACE,Yes,No,Yes,No,1,1,0,No,No,No,No,No,Yes,No,No,No,No,No,No,No,24,32,12
+46,21,female,WHITE,No,No,Yes,No,0,0,0,No,No,No,No,No,No,No,No,No,No,No,No,No,24,30,12
+47,22,female,WHITE,No,Yes,Yes,No,0,0,0,No,No,No,No,No,No,No,No,No,No,No,No,No,21,30,12
+48,21,female,WHITE,No,No,Yes,No,0,0,0,No,No,No,No,No,No,No,No,No,No,No,No,No,24,30,12
+49,20,female,MIXED RACE,No,No,Yes,No,0,0,0,No,No,No,No,No,No,No,No,No,No,No,No,No,24,30,12
+50,21,female,BLACK,Yes,Yes,Yes,No,0,0,0,No,No,No,No,No,No,No,No,No,No,No,No,No,24,30,12
+51,20,female,BLACK,Yes,No,Yes,No,0,0,0,No,No,No,No,No,No,No,No,No,No,No,No,No,24,32,12
+52,23,female,BLACK,Yes,Yes,Yes,Yes,0,0,0,No,No,No,No,No,No,No,No,No,No,No,No,No,24,30,12
+53,19,female,API,Yes,No,Yes,No,0,0,0,No,No,No,No,No,No,No,No,No,No,No,No,No,24,30,12
+54,21,female,WHITE,Yes,No,Yes,No,0,0,0,No,No,No,No,No,No,No,No,No,No,No,No,No,24,38,12
+55,18,female,MIXED RACE,No,No,No,No,10,10,9,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,53,50,NA
+56,20,female,API,Yes,Yes,Yes,No,7,6,5,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,49,44,NA
+57,21,female,MIXED RACE,Yes,Yes,Yes,No,7,6,5,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,23,44,NA
+58,20,female,WHITE,Yes,No,Yes,Yes,6,4,3,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,37,42,NA
+59,20,female,MIXED RACE,Yes,No,Yes,No,6,5,4,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,47,42,NA
+60,21,male,MIXED RACE,Yes,Yes,Yes,No,6,5,4,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,57,42,NA
+61,20,female,API,Yes,Yes,Yes,No,5,5,4,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,44,40,NA
+62,24,female,WHITE,Yes,Yes,No,No,5,4,3,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,39,40,NA
+63,18,female,API,No,No,Yes,No,4,3,2,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,Yes,24,38,NA
+64,22,male,BLACK,Yes,No,No,No,4,2,1,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,24,38,NA
+65,25,male,WHITE,Yes,Yes,No,No,4,2,1,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,24,38,NA
+66,24,male,WHITE,Yes,Yes,No,No,4,2,1,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,22,38,NA
+67,25,male,WHITE,Yes,Yes,Yes,No,4,3,2,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,Yes,24,38,NA
+68,24,female,WHITE,Yes,Yes,Yes,No,4,2,1,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,24,38,NA
+69,23,female,WHITE,Yes,Yes,Yes,No,4,4,3,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,22,38,NA
+70,24,female,MIXED RACE,Yes,Yes,No,No,4,4,4,No,No,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,21,38,NA
+71,24,female,MIXED RACE,No,Yes,Yes,No,3,1,1,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,24,36,NA
+72,21,male,BLACK,Yes,Yes,Yes,No,3,1,0,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,22,36,NA
+73,20,male,WHITE,Yes,Yes,Yes,No,3,2,1,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,37,36,NA
+74,24,female,WHITE,Yes,No,Yes,No,3,1,0,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,24,36,NA
+75,18,female,WHITE,Yes,Yes,Yes,No,3,2,1,Yes,No,No,No,No,Yes,No,No,No,No,Yes,No,No,24,36,NA
+76,25,female,MIXED RACE,Yes,Yes,Yes,No,3,3,2,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,25,36,NA
+77,19,female,MIXED RACE,Yes,Yes,Yes,No,3,2,1,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,24,36,NA
+78,20,female,MIXED RACE,Yes,No,Yes,No,3,1,0,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,24,36,NA
+79,20,female,MIXED RACE,No,Yes,Yes,No,2,0,0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,24,34,NA
+80,22,female,BLACK,Yes,Yes,No,No,2,1,0,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,29,32,NA
+81,19,female,BLACK,Yes,Yes,Yes,No,2,1,0,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,24,34,NA
+82,18,female,WHITE,Yes,Yes,Yes,No,2,1,0,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,21,35,NA
+83,18,female,WHITE,Yes,Yes,No,No,2,1,0,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,24,33,NA
+84,25,female,WHITE,Yes,No,Yes,No,2,1,0,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,24,34,NA
+85,23,female,WHITE,Yes,Yes,Yes,No,2,1,0,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,37,34,NA
+86,25,female,MIXED RACE,Yes,Yes,Yes,No,2,1,0,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,24,34,NA
+87,20,female,MIXED RACE,Yes,No,Yes,No,2,1,0,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,24,34,NA
+88,25,female,WHITE,No,Yes,Yes,No,1,0,0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,31,39,NA
+89,18,female,WHITE,No,Yes,No,No,1,0,0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,24,32,NA
+90,19,female,API,Yes,Yes,Yes,Yes,1,0,0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,19,32,NA
+91,25,female,BLACK,Yes,No,No,No,1,1,1,No,No,Yes,No,No,No,No,No,No,No,No,No,No,24,32,NA
+92,22,female,BLACK,Yes,Yes,No,No,1,0,0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,19,32,NA
+93,23,female,API,Yes,Yes,Yes,No,1,0,0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,24,32,NA
+94,22,female,API,Yes,No,Yes,No,1,0,0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,21,32,NA
+95,19,female,WHITE,Yes,Yes,Yes,No,1,0,0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,21,32,NA
+96,25,female,WHITE,Yes,No,Yes,Yes,1,1,0,No,No,No,No,No,Yes,No,No,No,No,No,No,No,24,32,NA
+97,24,female,BLACK,Yes,Yes,Yes,Yes,1,1,0,No,No,No,No,No,Yes,No,No,No,No,No,No,No,23,32,NA
+98,23,female,MIXED RACE,Yes,No,Yes,No,1,1,0,No,No,No,No,No,Yes,No,No,No,No,No,No,No,24,32,NA
+99,22,female,WHITE,No,Yes,Yes,No,0,0,0,No,No,No,No,No,No,No,No,No,No,No,No,No,24,30,NA
+100,23,female,WHITE,No,Yes,No,No,0,0,0,No,No,No,No,No,No,No,No,No,No,No,No,No,24,36,NA
+101,19,female,API,Yes,No,Yes,Yes,0,0,0,No,No,No,No,No,No,No,No,No,No,No,No,No,24,30,NA
+102,22,female,API,Yes,No,Yes,Yes,0,0,0,No,No,No,No,No,No,No,No,No,No,No,No,No,24,31,NA
+103,20,female,WHITE,Yes,Yes,Yes,No,10,8,7,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,49,50,6
+104,19,female,WHITE,Yes,Yes,No,No,10,8,7,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,39,50,6
+105,25,male,WHITE,Yes,Yes,No,No,7,6,5,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,61,44,6
+106,25,female,WHITE,Yes,Yes,No,No,7,6,5,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,61,44,6
+107,20,female,WHITE,Yes,No,Yes,No,7,6,5,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,52,44,6
+108,19,female,WHITE,Yes,No,Yes,Yes,6,4,3,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,44,42,6
+109,18,male,BLACK,Yes,No,Yes,No,6,4,3,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,11,42,6
+110,20,male,WHITE,Yes,No,Yes,No,6,5,4,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Yes,55,42,6
+111,24,male,WHITE,No,Yes,No,No,5,4,4,Yes,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,38,40,6
+112,22,female,WHITE,Yes,No,Yes,No,5,3,2,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,46,40,6
+113,22,male,API,No,No,Yes,No,4,3,3,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,22,38,6
+114,25,female,WHITE,Yes,Yes,No,No,4,3,3,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,No,24,38,6
+115,19,female,MIXED RACE,Yes,Yes,Yes,Yes,4,3,2,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,22,38,6
+116,21,female,BLACK,Yes,Yes,Yes,Yes,4,3,2,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,22,38,6
+117,20,female,API,Yes,No,Yes,Yes,4,3,2,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,24,38,6
+118,24,male,API,Yes,No,No,No,4,2,1,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,24,38,6
+119,20,female,BLACK,Yes,No,Yes,No,4,4,3,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,22,38,6
+120,20,female,BLACK,Yes,Yes,Yes,No,4,3,2,Yes,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,24,38,6
+121,20,male,API,Yes,No,Yes,No,4,2,1,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,21,38,6
+122,24,female,WHITE,Yes,Yes,No,No,4,2,1,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,21,38,6
+123,19,female,WHITE,Yes,No,Yes,No,4,2,1,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,24,38,6
+124,18,female,MIXED RACE,Yes,No,Yes,No,4,4,3,No,No,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,21,38,6
+125,24,female,MIXED RACE,Yes,Yes,No,No,4,2,1,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,24,38,6
+126,18,female,BLACK,No,No,No,No,3,2,1,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,24,36,6
+127,21,female,BLACK,No,Yes,Yes,No,3,1,1,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,22,36,6
+128,24,female,BLACK,Yes,No,Yes,No,3,2,1,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,24,36,6
+129,20,female,API,Yes,Yes,Yes,Yes,3,1,0,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,22,36,6
+130,21,male,API,Yes,Yes,Yes,No,3,1,0,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,33,36,6
+131,22,female,BLACK,Yes,Yes,Yes,No,3,2,1,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,24,36,6
+132,25,male,API,Yes,Yes,Yes,No,3,1,0,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,34,36,6
+133,20,male,WHITE,Yes,Yes,Yes,No,3,2,1,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,24,36,6
+134,24,female,WHITE,Yes,Yes,No,No,3,2,1,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,24,31,6
+135,21,female,WHITE,Yes,No,Yes,No,3,1,0,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,24,36,6
+136,25,female,MIXED RACE,Yes,Yes,No,No,3,3,2,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,26,36,6
+137,20,female,MIXED RACE,Yes,Yes,Yes,No,3,1,0,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,31,36,6
+138,24,male,BLACK,No,Yes,No,No,2,0,0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,22,34,6
+139,25,male,BLACK,No,Yes,Yes,No,2,0,0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,24,34,6
+140,22,female,WHITE,No,Yes,Yes,No,2,0,0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,23,34,6
+141,18,female,WHITE,No,No,Yes,No,2,0,0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,24,34,6
+142,20,female,WHITE,Yes,Yes,Yes,Yes,2,1,0,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,21,34,6
+143,19,female,BLACK,Yes,Yes,Yes,No,2,1,0,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,24,34,6
+144,18,female,BLACK,Yes,No,Yes,No,2,1,0,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,21,34,6
+145,21,female,API,Yes,Yes,No,No,2,1,0,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,24,34,6
+146,20,female,WHITE,Yes,Yes,Yes,No,2,1,0,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,24,34,6
+147,25,female,WHITE,Yes,Yes,No,No,2,2,1,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,24,34,6
+148,24,female,WHITE,Yes,Yes,No,No,2,1,0,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,24,34,6
+149,23,female,WHITE,Yes,Yes,No,No,2,1,0,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,24,37,6
+150,23,female,WHITE,Yes,Yes,Yes,No,2,1,0,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,24,34,6
+151,20,female,WHITE,Yes,Yes,Yes,No,2,1,0,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,24,34,6
+152,18,female,WHITE,Yes,No,Yes,No,2,1,0,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,24,34,6
+153,25,female,WHITE,Yes,Yes,Yes,No,2,1,0,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,24,22,6
+154,21,female,WHITE,Yes,Yes,Yes,No,2,1,0,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,24,40,6
+155,25,female,MIXED RACE,Yes,Yes,No,No,2,2,1,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,30,34,6
+156,20,female,MIXED RACE,Yes,No,Yes,No,2,1,0,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,24,51,6
+157,23,female,MIXED RACE,Yes,No,Yes,No,2,1,0,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,22,34,6
+158,25,female,WHITE,No,No,Yes,Yes,1,0,0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,24,32,6
+159,25,female,BLACK,No,Yes,No,No,1,0,0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,24,31,6
+160,20,female,WHITE,No,Yes,Yes,No,1,0,0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,31,32,6
+161,20,female,API,Yes,Yes,Yes,No,1,0,0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,24,32,6
+162,19,female,WHITE,Yes,No,Yes,No,1,1,1,No,No,No,No,No,No,No,No,No,No,No,No,Yes,21,32,6
+163,20,male,API,Yes,No,Yes,No,1,0,0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,24,32,6
+164,21,female,API,Yes,Yes,Yes,No,1,0,0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,26,32,6
+165,24,female,WHITE,Yes,Yes,No,No,1,1,0,No,No,No,No,No,Yes,No,No,No,No,No,No,No,21,32,6
+166,24,female,WHITE,Yes,Yes,Yes,No,1,1,0,No,No,No,No,No,Yes,No,No,No,No,No,No,No,24,32,6
+167,24,female,WHITE,Yes,No,Yes,No,1,1,0,No,No,No,No,No,Yes,No,No,No,No,No,No,No,24,32,6
+168,20,female,MIXED RACE,Yes,Yes,Yes,No,1,1,0,No,No,No,No,No,Yes,No,No,No,No,No,No,No,21,32,6
+169,20,female,WHITE,No,No,Yes,No,0,0,0,No,No,No,No,No,No,No,No,No,No,No,No,No,24,30,6
+170,20,female,WHITE,No,Yes,Yes,No,0,0,0,No,No,No,No,No,No,No,No,No,No,No,No,No,24,30,6
+171,18,female,MIXED RACE,No,No,Yes,No,0,0,0,No,No,No,No,No,No,No,No,No,No,No,No,No,24,27,6
+172,20,female,MIXED RACE,No,Yes,Yes,No,0,0,0,No,No,No,No,No,No,No,No,No,No,No,No,No,24,30,6
+173,21,female,BLACK,Yes,Yes,Yes,Yes,0,0,0,No,No,No,No,No,No,No,No,No,No,No,No,No,24,30,6
+174,18,female,WHITE,Yes,Yes,No,No,0,0,0,No,No,No,No,No,No,No,No,No,No,No,No,No,24,30,6
+175,25,male,API,Yes,Yes,No,No,8,6,5,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,55,46,3
+176,24,female,API,Yes,Yes,No,No,8,6,5,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,No,50,46,3
+177,20,female,BLACK,Yes,Yes,No,No,6,6,5,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,23,42,3
+178,23,female,API,Yes,Yes,Yes,No,6,5,4,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,60,42,3
+179,19,female,WHITE,Yes,No,No,No,6,5,4,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,51,42,3
+180,24,female,WHITE,Yes,Yes,No,No,6,5,4,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,49,42,3
+181,22,male,API,Yes,No,No,No,5,3,2,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,42,40,3
+182,23,male,BLACK,Yes,Yes,No,No,5,3,2,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Yes,34,40,3
+183,22,male,WHITE,Yes,No,No,No,5,4,3,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,45,40,3
+184,21,male,WHITE,Yes,No,Yes,No,5,4,3,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,60,40,3
+185,20,female,WHITE,Yes,Yes,Yes,No,5,4,3,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,17,40,3
+186,25,female,WHITE,Yes,No,Yes,No,5,4,3,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,58,40,3
+187,24,female,WHITE,Yes,Yes,No,No,5,4,3,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,No,Yes,47,40,3
+188,22,female,WHITE,Yes,No,Yes,No,5,3,2,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,No,Yes,47,40,3
+189,19,female,WHITE,Yes,No,Yes,No,5,4,3,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,51,40,3
+190,25,female,MIXED RACE,Yes,No,Yes,No,5,3,2,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,34,40,3
+191,21,male,WHITE,No,No,Yes,No,4,3,2,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,22,38,3
+192,20,male,WHITE,No,No,Yes,No,4,3,2,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,24,38,3
+193,25,female,API,No,No,Yes,No,4,3,2,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,24,38,3
+194,21,female,WHITE,Yes,No,Yes,Yes,4,3,2,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,24,38,3
+195,21,female,MIXED RACE,Yes,Yes,No,Yes,4,2,1,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,24,38,3
+196,19,female,MIXED RACE,Yes,No,Yes,Yes,4,3,2,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,24,38,3
+197,21,female,BLACK,Yes,Yes,Yes,No,4,3,2,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,24,38,3
+198,22,female,BLACK,Yes,Yes,No,No,4,3,2,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,24,38,3
+199,22,female,WHITE,Yes,No,No,No,4,3,2,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,21,38,3
+200,19,female,WHITE,Yes,Yes,Yes,No,4,3,2,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,24,38,3
+201,22,female,MIXED RACE,Yes,Yes,Yes,No,4,2,1,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,22,38,3
+202,22,male,WHITE,No,No,Yes,No,3,2,1,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,22,36,3
+203,24,male,WHITE,No,No,Yes,No,3,2,1,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,24,36,3
+204,21,male,WHITE,No,Yes,Yes,No,3,1,1,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,24,36,3
+205,23,female,API,Yes,Yes,No,Yes,3,2,1,Yes,No,No,No,No,Yes,No,No,No,No,Yes,No,No,24,36,3
+206,23,female,API,Yes,No,Yes,Yes,3,1,0,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,24,36,3
+207,20,male,API,Yes,Yes,Yes,Yes,3,1,0,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,24,36,3
+208,20,male,API,Yes,Yes,Yes,No,3,1,0,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,24,36,3
+209,18,male,WHITE,Yes,No,Yes,No,3,2,1,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,24,36,3
+210,24,female,WHITE,Yes,No,Yes,No,3,2,1,Yes,No,No,No,No,Yes,No,No,No,No,Yes,No,No,24,36,3
+211,22,female,WHITE,Yes,Yes,No,No,3,2,1,Yes,No,No,No,No,Yes,No,No,No,No,Yes,No,No,19,36,3
+212,24,female,WHITE,Yes,Yes,No,No,3,1,0,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,19,36,3
+213,22,female,WHITE,Yes,Yes,No,No,3,1,0,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,24,33,3
+214,24,female,WHITE,Yes,Yes,No,No,3,2,1,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,No,24,36,3
+215,20,female,WHITE,Yes,Yes,No,No,3,2,1,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,24,36,3
+216,22,female,WHITE,Yes,No,Yes,No,3,1,0,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,24,36,3
+217,23,female,WHITE,Yes,Yes,Yes,No,3,1,0,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,23,36,3
+218,22,female,MIXED RACE,Yes,Yes,Yes,No,3,3,2,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,24,36,3
+219,23,female,MIXED RACE,Yes,Yes,Yes,No,3,1,0,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,24,36,3
+220,19,female,MIXED RACE,Yes,No,Yes,No,3,1,0,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,24,36,3
+221,23,female,MIXED RACE,Yes,Yes,No,No,3,2,1,Yes,No,No,No,No,Yes,No,No,No,No,No,No,Yes,24,36,3
+222,24,female,MIXED RACE,Yes,Yes,No,No,3,2,1,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,24,36,3
+223,24,female,API,No,Yes,No,No,2,0,0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,24,34,3
+224,23,male,BLACK,No,No,No,No,2,0,0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,24,34,3
+225,19,female,MIXED RACE,No,No,Yes,No,2,0,0,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,24,34,3
+226,21,female,MIXED RACE,No,Yes,Yes,No,2,1,1,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,21,34,3
+227,22,female,API,Yes,Yes,Yes,No,2,1,0,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,24,33,3
+228,23,female,WHITE,Yes,Yes,No,No,2,1,0,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,32,34,3
+229,21,female,WHITE,Yes,Yes,Yes,No,2,2,1,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,24,34,3
+230,18,female,WHITE,Yes,No,Yes,No,2,1,0,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,24,34,3
+231,20,female,WHITE,Yes,Yes,Yes,No,2,2,1,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,31,34,3
+232,25,female,WHITE,Yes,No,Yes,No,2,1,0,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,24,34,3
+233,19,female,MIXED RACE,Yes,Yes,Yes,No,2,1,0,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,24,34,3
+234,19,female,MIXED RACE,Yes,No,Yes,No,2,1,0,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,30,41,3
+235,24,female,MIXED RACE,Yes,No,No,No,2,1,1,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,24,45,3
+236,24,female,WHITE,Yes,Yes,Yes,No,2,1,0,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,24,31,3
+237,20,female,MIXED RACE,Yes,Yes,Yes,No,2,1,0,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,30,33,3
+238,22,male,API,No,Yes,Yes,Yes,1,0,0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,24,30,3
+239,18,female,BLACK,No,No,Yes,Yes,1,0,0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,24,32,3
+240,19,female,API,No,No,Yes,No,1,0,0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,24,32,3
+241,21,male,API,No,Yes,Yes,No,1,0,0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,31,50,3
+242,21,female,WHITE,No,No,No,No,1,0,0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,24,32,3
+243,22,female,WHITE,No,Yes,No,No,1,0,0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,31,41,3
+244,23,female,WHITE,No,Yes,Yes,No,1,0,0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,24,32,3
+245,25,female,MIXED RACE,No,Yes,No,No,1,0,0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,24,32,3
+246,19,female,MIXED RACE,No,No,Yes,No,1,0,0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,19,32,3
+247,19,female,API,Yes,Yes,Yes,No,1,0,0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,19,32,3
+248,20,female,API,Yes,Yes,Yes,No,1,0,0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,24,32,3
+249,20,female,WHITE,Yes,No,Yes,No,1,0,0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,24,32,3
+250,19,female,WHITE,Yes,No,Yes,No,1,0,0,Yes,No,No,No,No,No,No,No,No,No,No,No,No,21,32,3
+251,24,female,BLACK,Yes,Yes,No,Yes,1,1,0,No,No,No,No,No,Yes,No,No,No,No,No,No,No,24,32,3
+252,21,female,API,Yes,Yes,Yes,Yes,1,0,0,No,Yes,No,No,No,No,No,No,No,No,No,No,No,24,32,3
+253,24,female,BLACK,Yes,Yes,No,Yes,1,1,0,No,No,No,No,No,Yes,No,No,No,No,No,No,No,24,32,3
+254,23,female,WHITE,Yes,No,Yes,No,1,1,0,No,No,No,No,No,Yes,No,No,No,No,No,No,No,24,43,3
+255,18,female,MIXED RACE,Yes,Yes,Yes,No,1,1,0,No,No,No,No,No,Yes,No,No,No,No,No,No,No,21,32,3
+256,25,female,WHITE,No,Yes,No,No,0,0,0,No,No,No,No,No,No,No,No,No,No,No,No,No,24,30,3
+257,20,female,WHITE,No,No,Yes,No,0,0,0,No,No,No,No,No,No,No,No,No,No,No,No,No,24,31,3
+258,20,female,API,Yes,No,Yes,No,0,0,0,No,No,No,No,No,No,No,No,No,No,No,No,No,24,30,3
+259,19,female,API,Yes,No,Yes,No,0,0,0,No,No,No,No,No,No,No,No,No,No,No,No,No,24,30,3
+260,20,female,API,Yes,Yes,Yes,No,0,0,0,No,No,No,No,No,No,No,No,No,No,No,No,No,24,33,3
+261,21,female,API,Yes,Yes,Yes,No,0,0,0,No,No,No,No,No,No,No,No,No,No,No,No,No,24,30,3
