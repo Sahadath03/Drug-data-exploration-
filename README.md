@@ -1,8 +1,6 @@
-# Drug-data-exploration
+#  Substance Use Patterns Among Emerging Adults
 
-# 📊 Substance Use Patterns Among Emerging Adults
-
-## 🔎 Project Overview
+##  Project Overview
 
 This project explores patterns of lifetime substance use among emerging
 adults (ages 18–25), with a focus on understanding how demographic and
@@ -19,7 +17,7 @@ coursework.
 
 ---
 
-## 🎯 Research Questions
+##  Research Questions
 
 1. How is lifetime drug use distributed among emerging adults?
 2. Does lifetime drug use differ by gender?
@@ -28,7 +26,7 @@ coursework.
 
 ---
 
-## 📁 Data
+##  Data
 
 The analysis included **261 young adults**.
 
@@ -46,7 +44,7 @@ Predictors examined included:
 
 ---
 
-## 🛠️ Statistical Methods
+##  Statistical Methods
 
 The analysis was conducted in **R** using descriptive and exploratory
 data analysis techniques, including:
@@ -60,7 +58,7 @@ data analysis techniques, including:
 
 ---
 
-## 📈 Key Findings
+##  Key Findings
 
 The average number of substances used was **2.72 (SD = 2.21)**,
 with a median of 2 and a range of 0–12.
@@ -81,26 +79,6 @@ establishing causal relationships.
 
 ---
 
-## 📊 Visualizations
-
-### Distribution of Lifetime Drug Use
-
-![Distribution of Lifetime Drug Use](figures/drug_distribution.png)
-
-### Drug Use by Gender
-
-![Drug Use by Gender](figures/drug_use_gender.png)
-
-### Drug Use by Race
-
-![Drug Use by Race](figures/drug_use_race.png)
-
-### Drug Use by School Enrollment
-
-![Drug Use by School Enrollment](figures/drug_use_school.png)
-
----
-
 ## 💡 Statistical Considerations
 
 Because the outcome represents a count and exhibits substantial
@@ -111,36 +89,14 @@ dispersion.
 
 ---
 
-## 💻 Tools & Skills
+##  Tools & Skills
 
-**Programming:** R
+Programming: R
 
-**Packages:** ggplot2, dplyr, tidyr
+Packages: ggplot2, dplyr, tidyr
 
 **Statistical Skills:** Exploratory Data Analysis (EDA), Descriptive
 Statistics, Data Visualization, Count Data Analysis
 
 **Public Health Skills:** Epidemiologic Data Analysis, Interpretation
 of Demographic Patterns, Public Health Research
-
----
-
-## 📂 Repository Structure
-
-    ├── README.md
-    ├── code/
-    │   └── substance_use_analysis.R
-    ├── figures/
-    │   ├── drug_distribution.png
-    │   ├── drug_use_gender.png
-    │   ├── drug_use_race.png
-    │   └── drug_use_school.png
-    └── report/
-        └── final_report.pdf
-
----
-
-## 👤 Author
-
-Graduate Student in Biostatistics
-
